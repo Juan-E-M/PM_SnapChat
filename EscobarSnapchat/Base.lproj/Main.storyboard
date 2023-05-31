@@ -65,6 +65,20 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="GWf-0T-uZA">
+                                <rect key="frame" x="107" y="521" width="200" height="34"/>
+                                <color key="backgroundColor" systemColor="tintColor"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="200" id="V5a-RA-yfY"/>
+                                </constraints>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="plain" image="google" title="Google">
+                                    <color key="baseForegroundColor" systemColor="tertiarySystemBackgroundColor"/>
+                                </buttonConfiguration>
+                                <connections>
+                                    <action selector="sesionGoogleTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="7no-n2-DOL"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
@@ -79,7 +93,9 @@
                             <constraint firstItem="yuw-Xq-cV7" firstAttribute="top" secondItem="B59-Wd-S48" secondAttribute="bottom" constant="30" id="UkM-RB-Zgk"/>
                             <constraint firstItem="4Tr-8R-9d3" firstAttribute="top" secondItem="Xu1-te-1kv" secondAttribute="bottom" constant="25" id="WCj-mM-PTY"/>
                             <constraint firstItem="B59-Wd-S48" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="X0a-Ac-8CJ"/>
+                            <constraint firstItem="GWf-0T-uZA" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="XDE-fv-JPB"/>
                             <constraint firstItem="8CQ-dx-q3M" firstAttribute="top" secondItem="4Tr-8R-9d3" secondAttribute="bottom" constant="25" id="gRb-7O-KdT"/>
+                            <constraint firstItem="GWf-0T-uZA" firstAttribute="top" secondItem="yuw-Xq-cV7" secondAttribute="bottom" constant="25" id="sIo-4N-A8j"/>
                             <constraint firstItem="yuw-Xq-cV7" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="uby-hT-gdO"/>
                         </constraints>
                     </view>
@@ -94,9 +110,16 @@
         </scene>
     </scenes>
     <resources>
+        <image name="google" width="20" height="20"/>
         <image name="imagen" width="200" height="208"/>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+        <systemColor name="tertiarySystemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+        <systemColor name="tintColor">
+            <color red="0.0" green="0.47843137254901963" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
     </resources>
 </document>
