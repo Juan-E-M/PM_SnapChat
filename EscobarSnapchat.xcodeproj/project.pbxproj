@@ -7,23 +7,36 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A8F48A4858FEA12C2C1D9873 /* Pods_EscobarSnapchat.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 56F84A2377B6074F3F6CEE8B /* Pods_EscobarSnapchat.framework */; };
+		AB94D29D2A34EEF90012D144 /* RegistroViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB94D29C2A34EEF90012D144 /* RegistroViewController.swift */; };
+		ABA3D27F2A39FB7A00E6F831 /* Snap.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABA3D27E2A39FB7A00E6F831 /* Snap.swift */; };
+		ABA3D2812A3A010900E6F831 /* VerSnapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABA3D2802A3A010900E6F831 /* VerSnapViewController.swift */; };
+		ABD56BE52A30D26400DFC092 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = ABD56BE42A30D26400DFC092 /* GoogleService-Info.plist */; };
+		ABD56BEA2A30F49100DFC092 /* SnapsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABD56BE92A30F49100DFC092 /* SnapsViewController.swift */; };
+		ABD56BEC2A30FA6B00DFC092 /* ImagenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABD56BEB2A30FA6B00DFC092 /* ImagenViewController.swift */; };
+		ABEE58A72A31202000A68342 /* ElegirUsuarioViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABEE58A62A31202000A68342 /* ElegirUsuarioViewController.swift */; };
+		ABEE58AB2A3126C000A68342 /* Usuario.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABEE58AA2A3126C000A68342 /* Usuario.swift */; };
 		B9EA851B2A27A02700EF45DB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9EA851A2A27A02700EF45DB /* AppDelegate.swift */; };
 		B9EA851D2A27A02700EF45DB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9EA851C2A27A02700EF45DB /* SceneDelegate.swift */; };
 		B9EA851F2A27A02700EF45DB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9EA851E2A27A02700EF45DB /* ViewController.swift */; };
 		B9EA85222A27A02700EF45DB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B9EA85202A27A02700EF45DB /* Main.storyboard */; };
 		B9EA85242A27A02700EF45DB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B9EA85232A27A02700EF45DB /* Assets.xcassets */; };
 		B9EA85272A27A02700EF45DB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B9EA85252A27A02700EF45DB /* LaunchScreen.storyboard */; };
-		B9EA85342A27B66B00EF45DB /* FirebaseAnalytics in Frameworks */ = {isa = PBXBuildFile; productRef = B9EA85332A27B66B00EF45DB /* FirebaseAnalytics */; };
-		B9EA85362A27B66B00EF45DB /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = B9EA85352A27B66B00EF45DB /* FirebaseAuth */; };
-		B9EA85382A27CDB600EF45DB /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = B9EA85372A27CDB600EF45DB /* GoogleService-Info.plist */; };
-		B9EA853B2A27D07300EF45DB /* FirebaseAnalytics in Frameworks */ = {isa = PBXBuildFile; productRef = B9EA853A2A27D07300EF45DB /* FirebaseAnalytics */; };
-		B9EA853D2A27D07300EF45DB /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = B9EA853C2A27D07300EF45DB /* FirebaseAuth */; };
-		B9EA85402A27D0E000EF45DB /* GoogleSignIn in Frameworks */ = {isa = PBXBuildFile; productRef = B9EA853F2A27D0E000EF45DB /* GoogleSignIn */; };
-		B9EA85422A27D0E000EF45DB /* GoogleSignInSwift in Frameworks */ = {isa = PBXBuildFile; productRef = B9EA85412A27D0E000EF45DB /* GoogleSignInSwift */; };
-		B9EA85452A27E86600EF45DB /* GoogleSignIn in Frameworks */ = {isa = PBXBuildFile; productRef = B9EA85442A27E86600EF45DB /* GoogleSignIn */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		24CF86BF4E49C88BD83B0E0B /* Pods-EscobarSnapchat.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EscobarSnapchat.debug.xcconfig"; path = "Target Support Files/Pods-EscobarSnapchat/Pods-EscobarSnapchat.debug.xcconfig"; sourceTree = "<group>"; };
+		56F84A2377B6074F3F6CEE8B /* Pods_EscobarSnapchat.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_EscobarSnapchat.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		91C50053E87D2E3930E1AD86 /* Pods-EscobarSnapchat.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EscobarSnapchat.release.xcconfig"; path = "Target Support Files/Pods-EscobarSnapchat/Pods-EscobarSnapchat.release.xcconfig"; sourceTree = "<group>"; };
+		AB94D29C2A34EEF90012D144 /* RegistroViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegistroViewController.swift; sourceTree = "<group>"; };
+		ABA3D27E2A39FB7A00E6F831 /* Snap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Snap.swift; sourceTree = "<group>"; };
+		ABA3D2802A3A010900E6F831 /* VerSnapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VerSnapViewController.swift; sourceTree = "<group>"; };
+		ABD56BE42A30D26400DFC092 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
+		ABD56BE62A30F09E00DFC092 /* EscobarSnapchat.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = EscobarSnapchat.entitlements; sourceTree = "<group>"; };
+		ABD56BE92A30F49100DFC092 /* SnapsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SnapsViewController.swift; sourceTree = "<group>"; };
+		ABD56BEB2A30FA6B00DFC092 /* ImagenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagenViewController.swift; sourceTree = "<group>"; };
+		ABEE58A62A31202000A68342 /* ElegirUsuarioViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ElegirUsuarioViewController.swift; sourceTree = "<group>"; };
+		ABEE58AA2A3126C000A68342 /* Usuario.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Usuario.swift; sourceTree = "<group>"; };
 		B9EA85172A27A02700EF45DB /* EscobarSnapchat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EscobarSnapchat.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B9EA851A2A27A02700EF45DB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B9EA851C2A27A02700EF45DB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -32,7 +45,6 @@
 		B9EA85232A27A02700EF45DB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B9EA85262A27A02700EF45DB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B9EA85282A27A02700EF45DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		B9EA85372A27CDB600EF45DB /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,24 +52,59 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B9EA85402A27D0E000EF45DB /* GoogleSignIn in Frameworks */,
-				B9EA85342A27B66B00EF45DB /* FirebaseAnalytics in Frameworks */,
-				B9EA85362A27B66B00EF45DB /* FirebaseAuth in Frameworks */,
-				B9EA85422A27D0E000EF45DB /* GoogleSignInSwift in Frameworks */,
-				B9EA853B2A27D07300EF45DB /* FirebaseAnalytics in Frameworks */,
-				B9EA853D2A27D07300EF45DB /* FirebaseAuth in Frameworks */,
-				B9EA85452A27E86600EF45DB /* GoogleSignIn in Frameworks */,
+				A8F48A4858FEA12C2C1D9873 /* Pods_EscobarSnapchat.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		55B4FBF86C24FA33C3F34580 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				24CF86BF4E49C88BD83B0E0B /* Pods-EscobarSnapchat.debug.xcconfig */,
+				91C50053E87D2E3930E1AD86 /* Pods-EscobarSnapchat.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		5BDAB65A866D49B5420B8877 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				56F84A2377B6074F3F6CEE8B /* Pods_EscobarSnapchat.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		ABEE58A82A3125FD00A68342 /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				ABD56BE92A30F49100DFC092 /* SnapsViewController.swift */,
+				ABD56BEB2A30FA6B00DFC092 /* ImagenViewController.swift */,
+				B9EA851E2A27A02700EF45DB /* ViewController.swift */,
+				ABEE58A62A31202000A68342 /* ElegirUsuarioViewController.swift */,
+				AB94D29C2A34EEF90012D144 /* RegistroViewController.swift */,
+				ABA3D2802A3A010900E6F831 /* VerSnapViewController.swift */,
+			);
+			path = ViewControllers;
+			sourceTree = "<group>";
+		};
+		ABEE58A92A31264500A68342 /* Modelos */ = {
+			isa = PBXGroup;
+			children = (
+				ABEE58AA2A3126C000A68342 /* Usuario.swift */,
+				ABA3D27E2A39FB7A00E6F831 /* Snap.swift */,
+			);
+			path = Modelos;
+			sourceTree = "<group>";
+		};
 		B9EA850E2A27A02700EF45DB = {
 			isa = PBXGroup;
 			children = (
 				B9EA85192A27A02700EF45DB /* EscobarSnapchat */,
 				B9EA85182A27A02700EF45DB /* Products */,
+				55B4FBF86C24FA33C3F34580 /* Pods */,
+				5BDAB65A866D49B5420B8877 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -72,14 +119,16 @@
 		B9EA85192A27A02700EF45DB /* EscobarSnapchat */ = {
 			isa = PBXGroup;
 			children = (
+				ABEE58A92A31264500A68342 /* Modelos */,
+				ABEE58A82A3125FD00A68342 /* ViewControllers */,
+				ABD56BE62A30F09E00DFC092 /* EscobarSnapchat.entitlements */,
 				B9EA851A2A27A02700EF45DB /* AppDelegate.swift */,
 				B9EA851C2A27A02700EF45DB /* SceneDelegate.swift */,
-				B9EA851E2A27A02700EF45DB /* ViewController.swift */,
 				B9EA85202A27A02700EF45DB /* Main.storyboard */,
 				B9EA85232A27A02700EF45DB /* Assets.xcassets */,
 				B9EA85252A27A02700EF45DB /* LaunchScreen.storyboard */,
 				B9EA85282A27A02700EF45DB /* Info.plist */,
-				B9EA85372A27CDB600EF45DB /* GoogleService-Info.plist */,
+				ABD56BE42A30D26400DFC092 /* GoogleService-Info.plist */,
 			);
 			path = EscobarSnapchat;
 			sourceTree = "<group>";
@@ -91,9 +140,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = B9EA852B2A27A02700EF45DB /* Build configuration list for PBXNativeTarget "EscobarSnapchat" */;
 			buildPhases = (
+				C8DAE1ADC2483C2FCEAC6169 /* [CP] Check Pods Manifest.lock */,
 				B9EA85132A27A02700EF45DB /* Sources */,
 				B9EA85142A27A02700EF45DB /* Frameworks */,
 				B9EA85152A27A02700EF45DB /* Resources */,
+				ECE1F87D95A03AB2E6CEBC86 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -101,13 +152,6 @@
 			);
 			name = EscobarSnapchat;
 			packageProductDependencies = (
-				B9EA85332A27B66B00EF45DB /* FirebaseAnalytics */,
-				B9EA85352A27B66B00EF45DB /* FirebaseAuth */,
-				B9EA853A2A27D07300EF45DB /* FirebaseAnalytics */,
-				B9EA853C2A27D07300EF45DB /* FirebaseAuth */,
-				B9EA853F2A27D0E000EF45DB /* GoogleSignIn */,
-				B9EA85412A27D0E000EF45DB /* GoogleSignInSwift */,
-				B9EA85442A27E86600EF45DB /* GoogleSignIn */,
 			);
 			productName = EscobarSnapchat;
 			productReference = B9EA85172A27A02700EF45DB /* EscobarSnapchat.app */;
@@ -138,10 +182,6 @@
 			);
 			mainGroup = B9EA850E2A27A02700EF45DB;
 			packageReferences = (
-				B9EA85322A27B66B00EF45DB /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
-				B9EA85392A27D07300EF45DB /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
-				B9EA853E2A27D0E000EF45DB /* XCRemoteSwiftPackageReference "GoogleSignIn-iOS" */,
-				B9EA85432A27E86600EF45DB /* XCRemoteSwiftPackageReference "GoogleSignIn-iOS" */,
 			);
 			productRefGroup = B9EA85182A27A02700EF45DB /* Products */;
 			projectDirPath = "";
@@ -158,7 +198,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B9EA85272A27A02700EF45DB /* LaunchScreen.storyboard in Resources */,
-				B9EA85382A27CDB600EF45DB /* GoogleService-Info.plist in Resources */,
+				ABD56BE52A30D26400DFC092 /* GoogleService-Info.plist in Resources */,
 				B9EA85242A27A02700EF45DB /* Assets.xcassets in Resources */,
 				B9EA85222A27A02700EF45DB /* Main.storyboard in Resources */,
 			);
@@ -166,14 +206,63 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		C8DAE1ADC2483C2FCEAC6169 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-EscobarSnapchat-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		ECE1F87D95A03AB2E6CEBC86 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-EscobarSnapchat/Pods-EscobarSnapchat-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-EscobarSnapchat/Pods-EscobarSnapchat-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-EscobarSnapchat/Pods-EscobarSnapchat-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		B9EA85132A27A02700EF45DB /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ABD56BEA2A30F49100DFC092 /* SnapsViewController.swift in Sources */,
+				ABD56BEC2A30FA6B00DFC092 /* ImagenViewController.swift in Sources */,
+				ABA3D27F2A39FB7A00E6F831 /* Snap.swift in Sources */,
+				ABEE58AB2A3126C000A68342 /* Usuario.swift in Sources */,
+				ABA3D2812A3A010900E6F831 /* VerSnapViewController.swift in Sources */,
 				B9EA851F2A27A02700EF45DB /* ViewController.swift in Sources */,
 				B9EA851B2A27A02700EF45DB /* AppDelegate.swift in Sources */,
+				AB94D29D2A34EEF90012D144 /* RegistroViewController.swift in Sources */,
 				B9EA851D2A27A02700EF45DB /* SceneDelegate.swift in Sources */,
+				ABEE58A72A31202000A68342 /* ElegirUsuarioViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -315,9 +404,11 @@
 		};
 		B9EA852C2A27A02700EF45DB /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 24CF86BF4E49C88BD83B0E0B /* Pods-EscobarSnapchat.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = EscobarSnapchat/EscobarSnapchat.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -342,9 +433,11 @@
 		};
 		B9EA852D2A27A02700EF45DB /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 91C50053E87D2E3930E1AD86 /* Pods-EscobarSnapchat.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = EscobarSnapchat/EscobarSnapchat.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -389,79 +482,6 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
-
-/* Begin XCRemoteSwiftPackageReference section */
-		B9EA85322A27B66B00EF45DB /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
-			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/firebase/firebase-ios-sdk";
-			requirement = {
-				kind = upToNextMajorVersion;
-				minimumVersion = 9.0.0;
-			};
-		};
-		B9EA85392A27D07300EF45DB /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
-			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/firebase/firebase-ios-sdk";
-			requirement = {
-				kind = upToNextMajorVersion;
-				minimumVersion = 9.0.0;
-			};
-		};
-		B9EA853E2A27D0E000EF45DB /* XCRemoteSwiftPackageReference "GoogleSignIn-iOS" */ = {
-			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/google/GoogleSignIn-iOS.git";
-			requirement = {
-				kind = upToNextMajorVersion;
-				minimumVersion = 7.0.0;
-			};
-		};
-		B9EA85432A27E86600EF45DB /* XCRemoteSwiftPackageReference "GoogleSignIn-iOS" */ = {
-			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/google/GoogleSignIn-iOS.git";
-			requirement = {
-				branch = main;
-				kind = branch;
-			};
-		};
-/* End XCRemoteSwiftPackageReference section */
-
-/* Begin XCSwiftPackageProductDependency section */
-		B9EA85332A27B66B00EF45DB /* FirebaseAnalytics */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = B9EA85322A27B66B00EF45DB /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
-			productName = FirebaseAnalytics;
-		};
-		B9EA85352A27B66B00EF45DB /* FirebaseAuth */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = B9EA85322A27B66B00EF45DB /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
-			productName = FirebaseAuth;
-		};
-		B9EA853A2A27D07300EF45DB /* FirebaseAnalytics */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = B9EA85322A27B66B00EF45DB /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
-			productName = FirebaseAnalytics;
-		};
-		B9EA853C2A27D07300EF45DB /* FirebaseAuth */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = B9EA85322A27B66B00EF45DB /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
-			productName = FirebaseAuth;
-		};
-		B9EA853F2A27D0E000EF45DB /* GoogleSignIn */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = B9EA853E2A27D0E000EF45DB /* XCRemoteSwiftPackageReference "GoogleSignIn-iOS" */;
-			productName = GoogleSignIn;
-		};
-		B9EA85412A27D0E000EF45DB /* GoogleSignInSwift */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = B9EA853E2A27D0E000EF45DB /* XCRemoteSwiftPackageReference "GoogleSignIn-iOS" */;
-			productName = GoogleSignInSwift;
-		};
-		B9EA85442A27E86600EF45DB /* GoogleSignIn */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = B9EA85432A27E86600EF45DB /* XCRemoteSwiftPackageReference "GoogleSignIn-iOS" */;
-			productName = GoogleSignIn;
-		};
-/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = B9EA850F2A27A02700EF45DB /* Project object */;
 }

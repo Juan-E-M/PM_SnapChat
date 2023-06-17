@@ -2,6 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>usando el micrófono</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Nesesitamos permiso para acceder a tu galeria</string>
 	<key>CFBundleURLTypes</key>
 	<array>
 		<dict>
@@ -9,7 +13,7 @@
 			<string>Editor</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>com.googleusercontent.apps.966963303510-l9gpmfffes37qebd08156p66lh3tq98f</string>
+				<string>com.googleusercontent.apps.404349819083-2s4997m7m0mkir7glddojj9sgfh2fsld</string>
 			</array>
 		</dict>
 	</array>

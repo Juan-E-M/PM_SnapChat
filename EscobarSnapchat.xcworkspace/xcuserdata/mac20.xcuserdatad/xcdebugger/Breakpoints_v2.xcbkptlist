@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F4E64860-35BA-4DB7-9F03-414411BEF2B4"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B5EE6333-F9EC-4F58-BB69-D33C811105EF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EscobarSnapchat/ViewControllers/ImagenViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "ImagenViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B5EE6333-F9EC-4F58-BB69-D33C811105EF - 7ede5dc2391b3388"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EscobarSnapchat.ImagenViewController.elegirContactoBoton.getter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "EscobarSnapchat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac20/Documents/ProyectosIOS/PM_SnapChat/EscobarSnapchat/ViewControllers/ImagenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "B5EE6333-F9EC-4F58-BB69-D33C811105EF - dbf717ec6b91839c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EscobarSnapchat.ImagenViewController.elegirContactoBoton.setter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "EscobarSnapchat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac20/Documents/ProyectosIOS/PM_SnapChat/EscobarSnapchat/ViewControllers/ImagenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "B5EE6333-F9EC-4F58-BB69-D33C811105EF - 78d2e7a3d3709f8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EscobarSnapchat.ImagenViewController.elegirContactoBoton.modify : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "EscobarSnapchat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac20/Documents/ProyectosIOS/PM_SnapChat/EscobarSnapchat/ViewControllers/ImagenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "B5EE6333-F9EC-4F58-BB69-D33C811105EF - d4b6e4bf28e8cff1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EscobarSnapchat.ImagenViewController.elegirContactoBoton.modify : Swift.Optional&lt;__C.UIButton&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "EscobarSnapchat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac20/Documents/ProyectosIOS/PM_SnapChat/EscobarSnapchat/ViewControllers/ImagenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "B5EE6333-F9EC-4F58-BB69-D33C811105EF - eae6d5f6a9d39f78"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EscobarSnapchat.ImagenViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; EscobarSnapchat.ImagenViewController"
+                  moduleName = "EscobarSnapchat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac20/Documents/ProyectosIOS/PM_SnapChat/EscobarSnapchat/ViewControllers/ImagenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "416">
+               </Location>
+               <Location
+                  uuid = "B5EE6333-F9EC-4F58-BB69-D33C811105EF - 190eb9e7591356b3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EscobarSnapchat.ImagenViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;EscobarSnapchat.ImagenViewController&gt;"
+                  moduleName = "EscobarSnapchat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac20/Documents/ProyectosIOS/PM_SnapChat/EscobarSnapchat/ViewControllers/ImagenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "392">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5E321A63-0504-43B7-90E7-2DF0EC26EDE3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EscobarSnapchat/ViewControllers/ImagenViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "ImagenViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
